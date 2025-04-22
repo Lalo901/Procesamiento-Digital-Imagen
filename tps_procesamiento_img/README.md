@@ -55,6 +55,7 @@ Este repositorio contiene el desarrollo de un **notebook integrador** correspond
 📘 Cátedra: **Técnica de Procesamiento Digital de Imágenes**  
 🏛️ Instituto: **IFTS N°24**  
 👨‍🏫Profesor: Matias Barreto
+
 👨‍🎓 Autoría: Eduardo Farfán
 
 ---
@@ -73,7 +74,3 @@ Se descarga automáticamente en la primera celda del notebook desde el siguiente
 🔗 [Descargar paisaje.jpeg](https://drive.google.com/uc?id=1WQsqiUy7oUQj7-JGXwNS8QhXLcPLEBDg)
 
 ---
-
-¿Querés que también te arme los _anchors_ (anclas) dentro del notebook para que los links del README te lleven directo a cada ejercicio con el título bien formateado? También puedo ayudarte a mejorar los títulos y celdas del notebook para que se vinculen bien desde GitHub y Colab.
-
-¿Te gustaría eso?
